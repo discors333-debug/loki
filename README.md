@@ -7,7 +7,7 @@ A simple shell alias to quickly open your favorite video with a single command.
 Clone the repository and run the install script:
 
 ```bash
-git clone https://github.com/discors333/loki.git
+git clone https://github.com/discors333-debug/loki.git
 cd loki
 chmod +x install.sh
 ./install.sh [/path/to/video.mp4]
